@@ -1,0 +1,25 @@
+.listitems{
+    background-color: #fff;
+    color: #46529d;
+  }
+  .listitems p{
+    margin: 0;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .listitems span{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    border: 0.3px solid #ccc;
+  }
+  .listitems span.title{
+    background-color: #2ebaee;
+    color: #fff;
+  }
+  .listitems span.icon{
+    cursor: pointer;
+    color: red;
+  }
